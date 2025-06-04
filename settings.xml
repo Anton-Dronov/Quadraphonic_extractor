@@ -1,0 +1,32 @@
+<data>
+    <distances description = "Distances between microphones, are inputted in meters">
+        <vertical>
+            3
+        </vertical>
+        <horizontal>
+            5
+        </horizontal>
+    </distances>
+    <instruments description = "An overall information about instruments in the recording">
+        <number>
+            2
+        </number>
+    </instruments>
+    <main description = "Main information about recording">
+        <speed description = "Speed of sound in the room, inputted in meters per second">
+            335
+        </speed>
+        <audio description = "Name of a quadraphonic audio file to be processed" name = "Ukulele+Guitar.wav"/>
+    </main>
+    <internal>
+        <window>
+            8192
+        </window>
+        <min_amp>
+
+        </min_amp>
+        <max_delta>
+
+        </max_delta>
+    </internal>
+</data>
